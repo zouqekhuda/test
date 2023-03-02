@@ -1,0 +1,20 @@
+const Colors = {
+    screenBackground: '#F2F2F2',
+    white: '#FFFFFF',
+    appleGreen: '#00917C',
+    purple: '#6A1ED2',
+    darkPurple: '#4F51CB',
+    grey: '#9A9A9A',
+    lightGrey: '#D8D8D8',
+    darkGreen: '#00917C',
+    yellow: '#FFBF00',
+    lightBlack: '#2F2F2F',
+    textHeaderBlack: '#262626',
+    googleButtonText: '#4C4C4C',
+    fbButton: '#1773EA',
+    inputBackgroundGrey: '#F6F6F6',
+    completedGreen: '#00917C',
+    cancelledRed: '#E5252A',
+    homePrinterLocationIconColor:'#4F51CB',
+}
+export default Colors
